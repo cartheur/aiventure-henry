@@ -6,4 +6,5 @@ The Henry Project
     1209: Althought only in storage the past year, the functionality of the software has substantively degraded. This is noticeable and did not seem apparent during the time henry was stuck alone during the pandemic. I will need to use the pi to capture this, since the edge Harbor did not seem to work. I will leave it there but give the Pi a new task.
     1226: Before I do, let me have a look at the audio setup, although the mouth should at least move.
     1652: Dunno. Finally got a pi version ready for development.
+    2135: Have a pretty solid huggable Linux version onboard the pi.
     
