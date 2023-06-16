@@ -1,0 +1,6 @@
+June 2023
+The Henry Project
+
+16.06.2023
+    1124: This repository has the old 2015 python baseline puppeteering code, for posterity, and the new NetCore version that will bring some of the functionality of the aeon AGI.
+    
