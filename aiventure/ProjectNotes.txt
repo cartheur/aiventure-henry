@@ -3,4 +3,5 @@ The Henry Project
 
 16.06.2023
     1124: This repository has the old 2015 python baseline puppeteering code, for posterity, and the new NetCore version that will bring some of the functionality of the aeon AGI.
+    1209: Althought only in storage the past year, the functionality of the software has substantively degraded. This is noticeable and did not seem apparent during the time henry was stuck alone during the pandemic. I will need to use the pi to capture this, since the edge Harbor did not seem to work. I will leave it there but give the Pi a new task.
     
