@@ -7,4 +7,7 @@ The Henry Project
     1226: Before I do, let me have a look at the audio setup, although the mouth should at least move.
     1652: Dunno. Finally got a pi version ready for development.
     2135: Have a pretty solid huggable Linux version onboard the pi.
+20.06.2023
+    1521: Diversification has me deeper into the scratch-built computing platform. It is just a hunch, really, but check it I must.
+    
     
