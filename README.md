@@ -6,6 +6,10 @@ An implementation of animals where an aeon is hosted inside a toy bear. This ver
 
 I have been contemplating a resident version but due to the age of debian (version 8), it cannot run dotnet core where the current version is SDK8.0; hence it will remain puppeteered.
 
+## table of contents
+
+* [Emotional](/literature/README.md) intellience upon children
+
 ## Project log
 
 * 16.06.2023
